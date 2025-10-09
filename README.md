@@ -142,9 +142,3 @@ The prompt-based video generation task was completed successfully. Various promp
 
 ---
 
-## References:
-
-- [Runway Gen-2](https://research.runwayml.com/gen2)
-- [Synthesia.io](https://www.synthesia.io/)
-- [Pictory.ai](https://pictory.ai/)
-- [DeepBrain.io](https://www.deepbrain.io/)
